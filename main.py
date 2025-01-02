@@ -141,7 +141,6 @@ class App(ctk.CTk):
                         self.update_playing_sounds()
                         continue
                     if round(progress[0]) != 0:
-                        print(f"Updated progress to {round(progress[0])} / {round(duration)}")
                         progress_bar["value"] = round(progress[0])
                     #     progress_bar.set(progress[0])
                 except Exception:
