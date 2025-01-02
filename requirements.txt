@@ -1,0 +1,9 @@
+pydub
+audioop-lts
+pyaudio
+sv_ttk
+customtkinter
+pillow
+yt-dlp
+pywinstyles
+keyboard
